@@ -1,5 +1,7 @@
-# classronin.github.io
-一流浪人的主页
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/classronin/count.svg)
 
 
 
@@ -11,5 +13,3 @@
 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=classronin&theme=tokyonight)
